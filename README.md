@@ -13,3 +13,5 @@ Estudo simples sobre a função `print`, input, output e concatenação de strin
 [Tip Calculator](/day-02/main-02.py)
 
 Converção de valores e tipos primitivos `int` e `float` e cálculos simples.
+
+### Dia 3
